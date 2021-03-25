@@ -1071,6 +1071,7 @@ end
 See [CONTRIBUTING.md](https://github.com/carrierwaveuploader/carrierwave/blob/master/CONTRIBUTING.md)
 
 ## License
+The MIT License (MIT)
 
 Copyright (c) 2008-2015 Jonas Nicklas
 
